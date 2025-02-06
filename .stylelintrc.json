@@ -1,10 +1,10 @@
 {
   "extends": "stylelint-config-standard",
   "rules": {
-    "value-keyword-case": "lower",
-    "alpha-value-notation": "percentage",
-    "number-max-precision": 4,
-    "rule-empty-line-before": "always",
-    "property-no-vendor-prefix": true
+    "rule-empty-line-before": null,
+    "value-keyword-case": null,
+    "alpha-value-notation": null,
+    "property-no-vendor-prefix": null,
+    "number-max-precision": null
   }
 }
