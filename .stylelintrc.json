@@ -1,7 +1,10 @@
 {
   "extends": "stylelint-config-standard",
   "rules": {
-    "indentation": 2,
-    "no-empty-source": null
+    "value-keyword-case": "lower",
+    "alpha-value-notation": "percentage",
+    "number-max-precision": 4,
+    "rule-empty-line-before": "always",
+    "property-no-vendor-prefix": true
   }
 }
